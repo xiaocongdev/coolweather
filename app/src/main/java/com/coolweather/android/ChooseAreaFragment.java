@@ -52,7 +52,6 @@ public class ChooseAreaFragment extends Fragment {
     private List<County> countyList;
     private Province selectProvince;
     private City selectCity;
-    private County selectCounty;
     private int currentLevel;
 
     @Nullable
